@@ -1,6 +1,4 @@
 import streamlit as st
- 
-# Pune heritage places data you gave
 
 pune_heritage_places = [
 
