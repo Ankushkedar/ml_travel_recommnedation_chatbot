@@ -118,7 +118,7 @@ pune_heritage_places = [
     {"Place Name": "Tilak Maharashtra Vidyapeeth", "Address": "Tilak Road, Pune"},
     {"Place Name": "University of Pune", "Address": "Ganeshkhind, Pune"},
     {"Place Name": "Vasantdada Sugar Institute", "Address": "Manjari, Pune"},
-    {"Place Name": "Vishrambaug Wada", "Address": "Shaniwar Peth, Pune"}
+    {"Place Name": "Vishrambaug Wada", "Address": "Shaniwar Peth, Pune"},
     {"Place Name": "Mobos Hotel", "Address": "21, Bund Garden Road, Pune"},
     {"Place Name": "Laxmi Narsinha Temple", "Address": "1429, Sadashiv Peth, Pune"},
     {"Place Name": "Natu Wada", "Address": "418, Shaniwar Peth, Pune"},
